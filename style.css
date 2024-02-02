@@ -1,0 +1,277 @@
+body {
+    padding: 0;
+    margin: 0;
+    background:#B1464A;
+    text-decoration: none;
+    font-family: Poppins;
+    color: white;
+}
+
+ul li {
+    display: block;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Playfair;
+}
+
+
+header {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.h1-header {
+    color: white;
+    font-family: Poppins;
+    font-style: 35px;
+    margin-right: 500px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}
+.ul-header {
+    margin-top: 35px;
+    display: flex;
+}
+
+.ul-container {
+    display: flex;
+}
+
+.header-menu {
+    color: white;
+    text-decoration: none;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.header-menu:hover {
+    text-decoration: underline;
+}
+
+.header-menu- {
+    color: white;
+    text-decoration: underline;
+}
+
+.tel {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.header-tel {
+    display: flex;
+    margin-left: 250px;
+}
+
+.img-2 {
+    display: block;
+    background: white;
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.img-2:hover {
+    background: rgb(136, 136, 136);
+}
+.main {
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+
+.img-in-main {
+    margin-left: 400px;
+    text-align: center;
+}
+
+.h1-main {
+    font-family: Playfair;
+    font-weight: 800;
+    font-size: 120px;
+}
+.text-in-main {
+    margin-top: 120px;
+}
+
+.button-link {
+    display: block;
+    background: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button-link:hover {
+    padding: 100px;
+    color: transparent;
+    background: url(img/ru.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+.button-link2 {
+    display: block;
+    background: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: black;
+    padding: 15px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button-link2:hover {
+    padding: 100px;
+    color: transparent;
+    background: url(img/ru2.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+.button-link3 {
+    display: block;
+    background: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: black;
+    padding: 15px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button-link3:hover {
+    padding: 100px;
+    color: transparent;
+    background: url(img/ru3.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+.button-link4 {
+    display: block;
+    background: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: black;
+    padding: 15px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button-link4:hover {
+    color: black;
+    background: rgb(136, 136, 136);
+    background-repeat: no-repeat;
+}
+
+.button-link5 {
+    display: block;
+    background: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: black;
+    padding: 15px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button-link5:hover {
+    color: black;
+    background: rgb(136, 136, 136);
+    background-repeat: no-repeat;
+}
+
+.text-container {
+    margin-top: 150px;
+    width: 370px;
+}
+
+.h3-text {
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.text-container2 {
+    font-size: 50px;
+    width: 600px;
+    line-height: 120px;
+}
+
+footer {
+    color: #B1464A;
+    background: white;
+}
+
+.main-footer-container {
+    padding-left: 120px;
+    padding-top: 60px;
+    padding-right: 120px;
+}
+
+.header-footer-container {
+    display: flex;
+}
+
+.img-3 {
+    margin-left: 550px;
+}
+
+.header-footer-container-2 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.text-container3 {
+    margin-left: 220px;
+    width: 810px;
+}
+
+.footer2 {
+    background: #FFF0DE;
+    color: black;
+}
+
+.main-footer-container2 {
+    background: #FFF0DE;
+    padding-left: 120px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    padding-right: 120px;
+    
+}
+
+.footc {
+    display: flex;
+}
+
+.h1h1 {
+    font-size: 80px;
+}
+
+.foott {
+    margin-left: 100px;
+    width: 550px;
+}
+
+.img-4 {
+    float: right;
+}

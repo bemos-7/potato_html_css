@@ -1,0 +1,194 @@
+body {
+    padding: 0;
+    margin: 0;
+    background:#B1464A;
+    text-decoration: none;
+    font-family: Poppins;
+    color: white;
+}
+
+ul li {
+    display: block;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Playfair;
+}
+
+
+header {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.h1-header {
+    color: white;
+    font-family: Poppins;
+    font-style: 35px;
+    margin-right: 500px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}
+.ul-header {
+    margin-top: 35px;
+    display: flex;
+}
+
+.ul-container {
+    display: flex;
+}
+
+.header-menu {
+    color: white;
+    text-decoration: none;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.header-menu:hover {
+    text-decoration: underline;
+}
+
+.header-menu- {
+    color: white;
+    text-decoration: underline;
+}
+
+.tel {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.header-tel {
+    display: flex;
+    margin-left: 250px;
+}
+
+.img-2 {
+    display: block;
+    background: white;
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.img-2:hover {
+    background: rgb(136, 136, 136);
+}
+.main {
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+
+.feedback-main {
+    background: white;
+    color: black;
+    width: 940px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 15px;
+    margin-left: 320px;
+}
+
+.feedback-button {
+    display: flex;
+}
+
+.feedback-container {
+    align-items: center;
+}
+
+.h3-feedback {
+    font-size: 30px;
+    text-align: center;
+}
+
+.name {
+    background: white;
+    border: 1px solid gray;
+    font-size: 20px;
+    height: 40px;
+    width: 400px;
+    color: gray;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+.email {
+    background: white;
+    border: 1px solid gray;
+    font-size: 20px;
+    height: 40px;
+    width: 400px;
+    color: gray;
+    border-radius: 10px;
+}
+
+.problem-button {
+    background: white;
+    border: 1px solid gray;
+    font-size: 20px;
+    height: 40px;
+    width: 864px;
+    color: gray;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.problem-text {
+    background: white;
+    border: 1px solid gray;
+    font-size: 20px;
+    height: 120px;
+    width: 860px;
+    color: gray;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.feedback-button-send {
+    display: flex;
+}
+
+.button-send {
+    display: block;
+    align-items: center;
+    background-color: #B1464A;
+    color: white;
+    font-size: 20px;
+    line-height: 50px;
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button-send:hover {
+    background-color: #6d292b;
+}
+
+.check {
+    color: black;
+}
+
+.feedback-check {
+    display: flex;
+    margin-left: 40px;
+}

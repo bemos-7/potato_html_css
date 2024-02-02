@@ -1,0 +1,143 @@
+body {
+    padding: 0;
+    margin: 0;
+    background:#B1464A;
+    text-decoration: none;
+    font-family: Poppins;
+    color: white;
+}
+
+ul li {
+    display: block;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Playfair;
+}
+
+
+header {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.h1-header {
+    color: white;
+    font-family: Poppins;
+    font-style: 35px;
+    margin-right: 500px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}
+.ul-header {
+    margin-top: 35px;
+    display: flex;
+}
+
+.ul-container {
+    display: flex;
+}
+
+.header-menu {
+    color: white;
+    text-decoration: none;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.header-menu:hover {
+    text-decoration: underline;
+}
+
+.header-menu- {
+    color: white;
+    text-decoration: underline;
+}
+
+.tel {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.header-tel {
+    display: flex;
+    margin-left: 250px;
+}
+
+.img-2 {
+    display: block;
+    background: white;
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+.i
+
+.img-2:hover {
+    background: rgb(136, 136, 136);
+}
+.main {
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+
+.img-in-main {
+    margin-left: 400px;
+    text-align: center;
+}
+
+.h1-main {
+    font-family: Playfair;
+    font-weight: 800;
+    font-size: 120px;
+}
+.text-in-main {
+    margin-top: 120px;
+}
+
+.text-container2 {
+    font-size: 50px;
+    width: 600px;
+    line-height: 120px;
+}
+
+.retailers {
+    background: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 1220px;
+    padding-top: 15px;
+    padding-right: 15px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+}
+
+.retailer-content {
+    background: white;
+    padding: 20px;
+    
+}
+
+.retailers-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.retailers-item {
+    padding: 2px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
